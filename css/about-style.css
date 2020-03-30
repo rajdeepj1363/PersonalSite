@@ -1,0 +1,18 @@
+body{
+  background-color: #cff1ef;
+  text-align: center;
+}
+p{
+  margin: 5% auto;
+  font-family: "Montserrat",sans-serif;
+  font-weight: 400;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+.github_icon{
+  font-size: 60px;
+  margin-bottom: 0;
+}
+.col{
+  margin-top: 0;
+}
