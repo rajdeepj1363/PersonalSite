@@ -1,17 +1,25 @@
 body{
   background-color: #cff1ef;
+  position: relative;
 }
 #photo-carousel{
   padding: 2% 30% 8% 30%;
   text-align: center;
+  position: relative;
+  margin: 30px 100px;
 
 }
 .carousel{
   padding: auto 100px;
   width:300px;
   height: auto;
-  
 
+
+}
+.bottombar{
+
+  bottom: 0;
+  z-index: -1;
 }
 img{
   width:300px;
