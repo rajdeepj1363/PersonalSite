@@ -9,9 +9,17 @@ h2{
   color:#66BFBF;
 }
 #photo-carousel-sec{
-  padding: 7% 15%;
+  padding: 7% 15% 30% 15%;
   text-align: center;
 
+}
+#Footer-gallery{
+
+  position: relative;
+}
+.bottombar{
+  position: absolute;
+  bottom:0;
 }
 .carousel{
   padding: auto 100px;
@@ -20,9 +28,7 @@ h2{
 
 
 }
-.carousel-inner > .item > img {
-    margin: 0 auto;
-}
+
 img{
   width:300px;
 }
