@@ -12,3 +12,7 @@ html,body{
 .page-wrapper{
   min-height: 100%;
 }
+#Footer-review{
+  position: relative;
+  bottom: 0;
+}
