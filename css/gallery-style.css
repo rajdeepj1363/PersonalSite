@@ -1,5 +1,6 @@
 body{
   background-color: #cff1ef;
+  position:relative;
 
 }
 h2{
@@ -9,18 +10,16 @@ h2{
   color:#66BFBF;
 }
 #photo-carousel-sec{
-  padding: 7% 15% 30% 15%;
+  padding: 7% 15% 8% 15%;
   text-align: center;
 
 }
 #Footer-gallery{
 
   position: relative;
+  bottom: 0;
 }
-.bottombar{
-  position: absolute;
-  bottom:0;
-}
+
 .carousel{
   padding: auto 100px;
   width:300px;
