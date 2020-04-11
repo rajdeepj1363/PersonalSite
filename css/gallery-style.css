@@ -1,12 +1,16 @@
 body{
   background-color: #cff1ef;
-  position: relative;
+
 }
-#photo-carousel{
-  padding: 2% 30% 8% 30%;
+h2{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 2.5rem;
+  color:#66BFBF;
+}
+#photo-carousel-sec{
+  padding: 7% 15%;
   text-align: center;
-  position: relative;
-  margin: 30px 100px;
 
 }
 .carousel{
@@ -16,10 +20,8 @@ body{
 
 
 }
-.bottombar{
-
-  bottom: 0;
-  z-index: -1;
+.carousel-inner > .item > img {
+    margin: 0 auto;
 }
 img{
   width:300px;
