@@ -1,4 +1,5 @@
-body{
+html,body{
+  height:100%;
   background-color: #cff1ef;
   text-align: center;
 }
@@ -18,4 +19,7 @@ p{
 }
 .review{
   margin-bottom: 20px;
+}
+.page-wrapper{
+  min-height: 100%;
 }

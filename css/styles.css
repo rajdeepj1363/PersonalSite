@@ -1,4 +1,5 @@
-body{
+html,body{
+  height: 100%;
   text-align: center;
 }
 #top-sec{
@@ -180,4 +181,7 @@ a{
    -moz-border-radius: 20px;
    border-radius: 20px;
    text-decoration: none;
+}
+.page-wrapper{
+  min-height: 100%;
 }
