@@ -10,6 +10,7 @@ html,body{
   margin:40px auto;
 }
 .page-wrapper{
+  padding-top: 50px;
   min-height: 100%;
 }
 #Footer-review{
