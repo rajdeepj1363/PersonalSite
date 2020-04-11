@@ -10,10 +10,16 @@ html,body{
   margin:40px auto;
 }
 .page-wrapper{
-  padding-top: 50px;
+
   min-height: 100%;
 }
 #Footer-review{
   position: relative;
   bottom: 0;
+}
+
+@media (max-width: 1028px){
+  .form-sec{
+    padding-top: 100px;
+  }
 }
