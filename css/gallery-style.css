@@ -35,3 +35,19 @@ h2{
 img{
   width:300px;
 }
+a{
+  position: relative;
+}
+b{
+  position: absolute;
+}
+.content{
+  padding-left: 70px;
+}
+@media (max-width: 1028px) {
+  .content{
+    text-align: center;
+    padding-left: 35px;
+  }
+
+}
