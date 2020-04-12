@@ -47,7 +47,10 @@ b{
 @media (max-width: 1028px) {
   .content{
     text-align: center;
-    padding-left: 35px;
+
+  }
+  a{
+    padding: 50% 50%;
   }
 
 }
