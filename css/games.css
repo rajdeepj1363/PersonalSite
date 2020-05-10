@@ -3,9 +3,17 @@ html,body{
   background-color: #cff1ef;
   text-align: center;
   position: relative;
+  margin:0;
+  padding: 0;
+}
+footer{
+  box-shadow: 0 50vh 0 50vh #66BFBF;
 }
 .card{
   margin:0 auto;
   float:none;
   margin-bottom: 10px;
+}
+.page-wrapper{
+  min-height: 100%;
 }
