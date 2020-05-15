@@ -2,12 +2,13 @@ html,body{
   height:100%;
   background-color: #cff1ef;
   text-align: center;
-  position: relative;
-  margin:0;
+  margin: 0;
   padding: 0;
+
 }
-footer{
-  box-shadow: 0 50vh 0 50vh #66BFBF;
+#Footer-game{
+  bottom: 0;
+
 }
 .card{
   margin:0 auto;
