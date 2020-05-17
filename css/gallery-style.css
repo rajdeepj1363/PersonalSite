@@ -57,10 +57,13 @@ b{
   }
   .a{
     position: relative;
-    margin-left: 55px;
+    background-size:cover;
+    background-position: center;
+
   }
   .b{
     position: relative;
+    
   }
 
 }
