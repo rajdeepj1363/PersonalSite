@@ -49,9 +49,7 @@ b{
     text-align: center;
 
   }
-  .carousel{
-    margin: 30px auto 0 auto;
-  }
+
   #photo-carousel-sec{
     padding: 7% 0;
     text-align: center;
@@ -59,6 +57,7 @@ b{
   }
   .a{
     position: relative;
+    margin-left: 55px;
   }
   .b{
     position: relative;
