@@ -28,3 +28,7 @@ h5{
 .row{
   margin: 30px auto;
 }
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
