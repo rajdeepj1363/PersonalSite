@@ -1,4 +1,8 @@
 <?php
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+require 'vendor/autoload.php';
 $to = 'rajdeepj1363@gmail.com';
 $subject = 'Website Review';
 $sender_name = $_POST["name"];
